@@ -1,10 +1,10 @@
-.left-side-bar {
+.left-sidebar {
   float: left;       /* Positionne la div à gauche */
   width: 45%;        /* Largeur de la colonne */
   background: lightblue;
 }
 
-.right-side-bar {
+.right-sidebar {
   float: right;      /* Positionne la div à droite */
   width: 45%;        /* Largeur de la colonne */
   background: lightgreen;
