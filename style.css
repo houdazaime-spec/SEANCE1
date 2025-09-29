@@ -9,3 +9,7 @@
   width: 45%;        /* Largeur de la colonne */
   background: lightgreen;
 }
+
+.container {
+  overflow: auto;
+}
