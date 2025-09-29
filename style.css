@@ -10,6 +10,9 @@
   background: lightgreen;
 }
 
-.container {
+/*.container englobe les deux colonnes flottantes 
+et grâce à overflow:auto, il s'adapte à leur hauteur 
+pour éviter que le footer remonte*/
+.container {         /**/
   overflow: auto;
 }
